@@ -8,7 +8,7 @@
   <%
   	// # 쿠키생성방법
 	// 1. 쿠키 객체를 생성 - 생성자의 매개값으로 쿠키의
-	// 이름과 저장할 데이터를 입력
+	// 이름과 저장할 데이터를 입력    cookie_name   cookie_value
   	Cookie apple = new Cookie("apple_cookie", "사과맛");
   	Cookie peanut = new Cookie("peanut_cookie", "땅콩맛");
   	
